@@ -9,5 +9,7 @@ Basicamente, la IA tiene dialogos, PERO! Hay una IA que tiene el dialogo especia
 ### Controles:
 WASD - Moverse
 Mouse - Mover la camara
+F - Para interactuar con los dialogos (O el mouse tambien)
+Q - Para cancelar los dialgos ( Y tambien con el mouse XD)
 
 La escena representa un bar, en el cual, ahi es donde se centra el conflicto!
